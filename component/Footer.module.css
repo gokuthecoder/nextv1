@@ -1,0 +1,25 @@
+.siteFooter {
+    /* Add your site footer styling here */
+}
+
+.footerWrapper {
+    /* Add your footer wrapper styling here */
+}
+
+.fontSize17 {
+    font-size: 17px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.footerLinks a {
+    margin: 0 5px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.footerLinks a:hover {
+    text-decoration: underline;
+}

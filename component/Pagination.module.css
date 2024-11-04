@@ -1,0 +1,30 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+
+.pageInfo {
+    margin-right: 10px;
+}
+
+.pageLink {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #0070f3;
+}
+
+.pageLink:hover {
+    text-decoration: underline;
+}
+
+.currentPage {
+    font-weight: bold;
+    color: #333;
+    margin: 0 5px;
+}
+
+.pageDots {
+    margin: 0 5px;
+    color: #777;
+}

@@ -1,0 +1,72 @@
+/* .imdbwp {
+    display: flex;
+    padding: 16px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.imdbwpThumb {
+    margin-right: 16px;
+}
+
+.imdbwpLink {
+    display: inline-block;
+}
+
+.imdbwpImg {
+    border-radius: 4px;
+}
+
+.imdbwpContent {
+    max-width: 600px;
+}
+
+.imdbwpHeader {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.imdbwpTitle {
+    font-weight: bold;
+}
+
+.imdbwpMeta {
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
+.imdbwpBelt {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    margin: 8px 0;
+}
+
+.imdbwpStar {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #f5c518;
+    margin-right: 8px;
+}
+
+.imdbwpRating {
+    font-size: 0.9rem;
+    color: #bbb;
+}
+
+.imdbwpTeaser {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    margin: 8px 0;
+}
+
+.imdbwpFooter {
+    font-size: 0.9rem;
+    color: #ddd;
+}
+
+
+
+ */
